@@ -1,1 +1,4 @@
-# kick-project-1
+
+str = "Python"  
+for i in str:  
+    print(i) 
